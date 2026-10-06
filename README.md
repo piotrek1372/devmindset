@@ -1,7 +1,9 @@
 **Self-taught developer. Arch Linux. Python.**
 
 Writing [devmindset.dev](https://devmindset.dev) — an engineering blog on Linux internals, systems programming, and how experienced developers actually think.
-No tutorials. No hand-holding. Bilingual PL/EN.
+Technical depth. Bilingual PL/EN.
+
+Also developing beginner-friendly Python tutorials for the [DevMindset YouTube channel](https://www.youtube.com/@Piotrek-u8f).
 
 ---
 
